@@ -12,12 +12,12 @@ The topic mining using the K-means method is compared to highlight the advantage
 One kind of a large network of online resources and interconnected people sharing their opinions and news circulating around is Twitter.  Breaking news that are posted, are categorized as groups, ranks and tracks. Instead of using a supervised ML model, the twitter messages are made into an intermediate value called as timeline to be tracked.
 
 
-![www (1)](https://user-images.githubusercontent.com/66555276/196894011-f2298420-5a48-4c96-9e4c-0f8b560ea8be.jpg)
+![www (1)](https://github.com/Pushpakumar02/pushpakumar02.github.io/blob/main/images/techfortheblind_.jpg)
 
 
 Clustering of the various messages, probable news with the format or structure, can be used to find the topic of relevance or interest by the people who need to view the news based on it. The improvement of the common agglomerative hierarchical clustering algorithm based on average-link method, which is used to implement the retrospective topic detection and the online topic detection of news stories of the stocks is implemented already as per the submitted paper. 
 
-Ultimately tracking of news by using stochastic models are also in use due to information occurring in fragments. These are formed by the story lines tracking in news channels and in documents. Using the Kullback–Leibler divergence, we can:
+Ultimately tracking of news by using stochastic models are also in use due to information occurring in fragments. These are formed by the story lines tracking in news channels and in documents. Using the Kullbackâ€“Leibler divergence, we can:
 1)	Identifying the same topics
 2)	Clustering the similar nodes
 3)	Topic selection
@@ -41,7 +41,7 @@ Real time updates can be obtained by everyone at anytime and anywhere in the are
 3.	Flask
 4.	Operating System(win 7+/ Linux/MaxOs)
 
-# IDE’s, Tools and Techniques used
+# IDEâ€™s, Tools and Techniques used
 1.	Python
 2.	Flask
 3.	LDA (latent Dirichlet allocation) 
