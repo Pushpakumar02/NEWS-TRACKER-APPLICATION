@@ -4,16 +4,16 @@
 
 | Module   | Content                                             | Duration |
 |----------|-----------------------------------------------------|----------|
-| Module-1 | - Importance of App Modernization                   | 4 Hours  |
-|          | - Introduction to Modern App Development            |          |
+| Module-1 | Introduction to Modern App Development              | 4 Hours  |
+|          | -Importance of App Modernization                    |          |
 |          | - Platforms Used for Development                    |          |
 |          | - Essentials for App Modernization                  |          |
 |          | - Important Modernization Technologies              |          |
-| Module-2 | - HTML Basics                                       |          |
-|          | - Hands-on with Web-app Development                 | 4 Hours  |
-|          |   - HTML with CSS                                   |          |
+| Module-2 | Hands-on with Web-app Development                   | 4 Hours  |
+|          |   - HTML Basics                                    |           |
+|          |   - HTML with CSS                                  |          |
 |          |   - JavaScript                                     |          |
-| Module-3 | - Flask                                            | 8 Hours  |
+| Module-3 |  Flask                                             | 8 Hours  |
 |          |   - Introduction to Flask                          |          |
 |          |   - Python and Flask Environment Setup             |          |
 |          |   - What is web framework                          |          |
@@ -21,33 +21,32 @@
 |          |   - HTTP Methods                                   |          |
 |          |   - Templates and Static Files, Redirect and Errors|          |
 |          |   - Cookies and Session                            |          |
-| Module-4 | - IBM DB2                                          | 3 Hours  |
+| Module-4 |  IBM DB2                                          | 3 Hours  |
 |          |   - Introduction to IBM DB2 Database               |          |
 |          |   - Introducing python SDK for IBM DB2 Database    |          |
 |          |   - Connecting Flask app to DB2 Database           |          |
 |          |   - Working on Insert, Update, Delete, Retrieve    |          |
 |          |   - Learn creating micro-services with CRUD ops    |          |
-|          |   - Introduction to IBM Object Storage             |          |
-| Module-5 | - IBM Object Storage                               | 3 Hours  |
+|          |                                                    |          |
+| Module-5 |  Introduction to IBM Object Storage                | 3 Hours  |
 |          |   - Introducing python SDK for IBM Object Storage  |          |
 |          |   - Creating a new bucket                          |          |
 |          |   - Uploading files to the bucket                  |          |
 |          |   - Update and delete the files in bucket          |          |
-|          |   - Getting Started with Watson Assistant          |          |
-| Module-6 | - IBM Watson Assistant                             | 4 Hours  |
+|          |                                                    |          |
+| Module-6 |  IBM Watson Assistant                               | 4 Hours  |
 |          |   - An Introduction to Watson Assistant            |          |
 |          |   - Learning about Intents, Entities, Dialog       |          |
-| Module-7 | - Buliding a use case with IBM Watson Assistant    | 4 Hours  |
-|          |   - Containerize your application                  |          |
-|          |   - Learn integrating Bot with Flask Application   |          |
-|          |   - Manage stra                                    |          |
+|          | - Buliding a use case with IBM Watson Assistant    | 4 Hours  |
+|          | - Learn integrating Bot with Flask Application     |          |
+|          |                                                    |          |
+|Module-7  | Intro and Basics of Containerization               |          |
 |          |   - What is a Container?                           |          |
-|          |   - Intro and Basics of Containerization          |          |
 |          |   - Containerization vs. Virtual Machine           |          |
 |          |   - Docker installation                            |          |
-|          |   - Main Docker Commands                           |          |
+|          |   -Main Docker Commands                            |          |
 |          |   - Building your own Containerized Image for Flask App |     |
-|          |   - Write a readme in markup table format in 3 columns     |  |
+
 
 
 News tracking often never comes in handy as we have to access Google, and search for the relevant topics. Eventually some of them are fake and not the exact kind of news we look for. Tracking the news hence will help people to avoid boring, fake and helps in finding the desired news.
