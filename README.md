@@ -12,7 +12,7 @@ The topic mining using the K-means method is compared to highlight the advantage
 One kind of a large network of online resources and interconnected people sharing their opinions and news circulating around is Twitter.  Breaking news that are posted, are categorized as groups, ranks and tracks. Instead of using a supervised ML model, the twitter messages are made into an intermediate value called as timeline to be tracked.
 
 
-![www (1)](https://github.com/Pushpakumar02/pushpakumar02.github.io/blob/main/images/techfortheblind_.jpg)
+![www (1)](https://github.com/Pushpakumar02/pushpakumar02.github.io/blob/main/images/newstracker_app.png)
 
 
 Clustering of the various messages, probable news with the format or structure, can be used to find the topic of relevance or interest by the people who need to view the news based on it. The improvement of the common agglomerative hierarchical clustering algorithm based on average-link method, which is used to implement the retrospective topic detection and the online topic detection of news stories of the stocks is implemented already as per the submitted paper. 
