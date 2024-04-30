@@ -97,3 +97,5 @@ Real-time updates can be obtained by everyone at any time and anywhere in the ar
 ## Conclusion
 
 One of the factors in successful news app development is the visualization of news and its features with users. For the development of an Android app, material design is very useful and provides a smooth experience with custom layout, views, and animations. Hence, the application of the news tracker is a very essential use of news access from anywhere anytime.
+
+Also inspired by the original repository: [samuelhatcliff/newstracker](https://github.com/samuelhatcliff/newstracker).
