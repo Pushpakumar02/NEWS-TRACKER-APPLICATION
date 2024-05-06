@@ -40,7 +40,7 @@
 |          | - Buliding a use case with IBM Watson Assistant    | 4 Hours  |
 |          | - Learn integrating Bot with Flask Application     |          |
 |          |                                                    |          |
-|Module-7  | Intro and Basics of Containerization               |          |
+|Module-7  | [Intro and Basics of Containerization  ](https://docs.google.com/presentation/d/1cQ2nY2PltUTINkcK8KeQ1VH9b2v-eUbX5rJQK2CWq8s/edit#slide=id.p18)             |          |
 |          |   - What is a Container?                           |          |
 |          |   - Containerization vs. Virtual Machine           |          |
 |          |   - Docker installation                            |          |
