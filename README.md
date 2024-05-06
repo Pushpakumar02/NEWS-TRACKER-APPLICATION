@@ -48,6 +48,40 @@
 |          |   - Building your own Containerized Image for Flask App |     |
 
 
+
+### Miscellaneous Links
+#### Getting Started:
+- [How to Install Flask](https://flask.palletsprojects.com/en/2.2.x/installation/)
+- [How to Install Pip on Windows](https://www.geeksforgeeks.org/how-to-install-pip-on-windows/)
+- [Installing Pip](https://bootstrap.pypa.io/get-pip.py)
+- [SQLAlchemy Documentation](https://www.sqlalchemy.org/)
+- [Installing SQLAlchemy](https://www.sqlalchemy.org/)
+- [Setting up Flask Blog with DB](https://github.com/kshyam/flask-blog-with-db)
+
+#### HTTP Basics:
+- [HTTP Status Codes](https://restfulapi.net/http-status-codes/)
+
+#### Database Integration:
+- [Flask with IBM DB2](https://github.com/kshyam/flask-with-ibm-db2)
+- [Microservice with IBM DB2](https://github.com/kshyam/micro-service-with-ibm-db2)
+
+#### Chatbot Integration:
+- [Watson Assistant](https://cloud.ibm.com/catalog/services/watson-assistant)
+- [Watson Assistant Web Chat](https://web-chat.global.assistant.watson.appdomain.cloud/preview.html?backgroundImageURL=https%3A%2F%2Fjp-tok.assistant.watson.cloud.ibm.com%2Fpublic%2Fimages%2Fupx-855958b6-f1ca-490c-9178-349a7f319979%3A%3A141c6279-92ff-4e93-9d9b-be164ab337b5&integrationID=17a66346-6210-477f-aa46-96d7da7a20cb&region=jp-tok&serviceInstanceID=855958b6-f1ca-490c-9178-349a7f319979)
+- [Watson Assistant Web Chat](https://web-chat.global.assistant.watson.appdomain.cloud/preview.html?backgroundImageURL=https%3A%2F%2Fjp-tok.assistant.watson.cloud.ibm.com%2Fpublic%2Fimages%2Fupx-855958b6-f1ca-490c-9178-349a7f319979%3A%3A8f9e8cbb-a8a6-49f4-85ac-37fffdbae1c7&integrationID=fca0ee27-ced6-43aa-84a4-7d619001a75a&region=jp-tok&serviceInstanceID=855958b6-f1ca-490c-9178-349a7f319979)
+
+#### Additional Resources:
+- [Presentation 1](https://docs.google.com/presentation/d/14gU82U3nIBtAxW9LHjimZU2PqEOSVhF6ZADpUa2zuVg/edit#slide=id.g1568bcaaf87_0_68)
+- [Presentation 2](https://docs.google.com/presentation/d/1E8SfSJFLogn9NN8PDexeyTeFPvCforKcrWsIV5d007w/edit#slide=id.g1d9c67055b_0_154)
+- [Presentation 3](https://docs.google.com/presentation/d/1ozhQtOSZQ9mSiSkFGfdxkwMnCTezj8VRKkAxfJURR0A/edit#slide=id.g15f7a6adf1b_3_0)
+- [Presentation 4](https://docs.google.com/presentation/d/1cQ2nY2PltUTINkcK8KeQ1VH9b2v-eUbX5rJQK2CWq8s/edit#slide=id.p18)
+- [Best Docker Image Hosting Platforms](https://razorops.com/blog/best-docker-image-hosting-platforms/)
+
+#### Trainer's Resources:
+- [Trainer's GitHub Profile](https://github.com/kshyam)
+- [Flask with IBM DB2 (Trainer's Repository)](https://github.com/kshyam/flask-with-ibm-db2)
+
+
 ## Overview
 
 News tracking often never comes in handy as we have to access Google, and search for the relevant topics. Eventually, some of them are fake and not the exact kind of news we look for. Tracking the news hence will help people to avoid boring, fake and helps in finding the desired news.
