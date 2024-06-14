@@ -99,7 +99,7 @@ Ultimately tracking of news by using stochastic models are also in use due to in
 4) Topic Detection
 
 <!-- ![News Tracker Application](https://github.com/Pushpakumar02/pushpakumar02.github.io/blob/main/images/newstracker_app.png) -->
-<img src="https://raw.githubusercontent.com/Pushpakumar02/pushpakumar02.github.io/main/images/newstracker_app.png" alt="News Tracker Application" width="643" height="316">
+<img src="https://raw.githubusercontent.com/Pushpakumar02/pushpakumar02.github.io/main/images/newstracker_app.png" alt="News Tracker Application" width="1103" height="543">
 
 Real-time updates can be obtained by everyone at any time and anywhere in the area of interest without any hassle.
 
